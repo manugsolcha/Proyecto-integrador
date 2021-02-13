@@ -17,7 +17,13 @@ body{
     top: 0;*/
 }
 
-
+.form{
+    display: flex;
+    align-items: center;
+}
+.form input{
+    margin-right: 5px;
+}
 
 .main-navbar {
     display: none;
